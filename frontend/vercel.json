@@ -1,0 +1,1 @@
+{ "version": 2, "rewrites": [{ "source": "/(.*)", "destination": "/frontend_with_json_server" }] }
