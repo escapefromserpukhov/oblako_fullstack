@@ -14,7 +14,7 @@ git clone https://github.com/escapefromserpukhov/oblako_fullstack.git
 -   Активировать виртуальное окружение и установить зависимости:
 
 ```
-cd <dir_to_repo>
+cd oblako_fullstack
 ```
 
 ```
