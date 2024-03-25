@@ -8,7 +8,7 @@ http://79.174.94.12
 -   Клонировать репозиторий:
 
 ```
-git clone [<repo_url>](https://github.com/escapefromserpukhov/oblako_fullstack.git )
+git clone https://github.com/escapefromserpukhov/oblako_fullstack.git 
 ```
 
 -   Активировать виртуальное окружение и установить зависимости:
